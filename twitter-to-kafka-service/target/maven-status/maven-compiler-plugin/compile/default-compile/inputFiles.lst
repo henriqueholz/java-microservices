@@ -1,0 +1,5 @@
+/Users/henriqueholzdecastro/microservices-demo/twitter-to-kafka-service/src/main/java/com/microservices/demo/twitter/to/kafka/service/runner/StreamRunner.java
+/Users/henriqueholzdecastro/microservices-demo/twitter-to-kafka-service/src/main/java/com/microservices/demo/twitter/to/kafka/service/listener/TwitterKafkaStatusListener.java
+/Users/henriqueholzdecastro/microservices-demo/twitter-to-kafka-service/src/main/java/com/microservices/demo/twitter/to/kafka/service/config/TwitterToKafkaServiceConfigData.java
+/Users/henriqueholzdecastro/microservices-demo/twitter-to-kafka-service/src/main/java/com/microservices/demo/twitter/to/kafka/service/TwitterToKafkaServiceApplication.java
+/Users/henriqueholzdecastro/microservices-demo/twitter-to-kafka-service/src/main/java/com/microservices/demo/twitter/to/kafka/service/runner/impl/TwitterKafkaStreamRunner.java
